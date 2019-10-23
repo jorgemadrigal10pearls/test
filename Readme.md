@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/jorgemadrigal/jorgemadrigal/_apis/build/status/jorgemadrigal10pearls.test?branchName=master)](https://dev.azure.com/jorgemadrigal/jorgemadrigal/_build/latest?definitionId=1&branchName=master)
